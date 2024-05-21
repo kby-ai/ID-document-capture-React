@@ -1,4 +1,4 @@
-# ID-document-capture-Javascript
+# ID-document-capture-React
 
 <p align="center">
   <a href="https://play.google.com/store/apps/dev?id=7086930298279250852" target="_blank">
