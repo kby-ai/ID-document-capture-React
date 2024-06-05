@@ -14,8 +14,6 @@
 # ID Document Auto-Capture on Web Browser
 We are working on developing ID document auto-capture SDK on the web front-end via ReactJS in Javascript programming language.
 
-Please check the following link: https://id-document-capture-react-js.vercel.app/
-
 - To request SDK, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
