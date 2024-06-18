@@ -12,7 +12,8 @@
 #### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/u/kbyai)
 
 # ID Document Auto-Capture on Web Browser
-We are working on developing ID document auto-capture SDK on the web front-end via ReactJS in Javascript programming language.
+We have built ID document auto-capture web application via ReactJS in Javascript programming language.</br>
+Please check our demo [here](https://id-document-recognition-react-alpha.vercel.app/)
 
 - To request SDK, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
