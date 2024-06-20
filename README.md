@@ -13,8 +13,7 @@
 
 # ID Document Auto-Capture on Web Browser
 We have built ID document auto-capture web application via ReactJS in Javascript programming language.</br>
-Please check our demo [here](https://id-document-recognition-react-alpha.vercel.app/)
-
+Please check our demo
 - To request SDK, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
