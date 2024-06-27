@@ -15,7 +15,9 @@
 
 ## Overview
 We have built ID document auto-capture web application via ReactJS in Javascript programming language.</br>
-This repo captures ID document automatically through web camera or mobile camera(front and back camera) and extracts information from the captured one.</br>
+This repo captures ID card, passport and driver licenses automatically through web camera and mobile camera.
+And it also extracts all information from the captured ID document by integrating our own ID card recognition SDK.
+It's very useful and valuable to build KYC automation and digital customer onboarding system.</br>
 
 ## Try By Yourself
 Please check our demo [here](https://id-document-recognition-react-alpha.vercel.app/)</br>
