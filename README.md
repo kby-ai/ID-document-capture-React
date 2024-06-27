@@ -25,6 +25,30 @@ Please check our demo [here](https://id-document-recognition-react-alpha.vercel.
 ## Performance Video
 Please review our YouTube video [here](https://www.youtube.com/watch?v=Pn5Coq7QZ8s) to see how well our demo app works.</br></br>
 [![ID Document Auto Capture](https://img.youtube.com/vi/Pn5Coq7QZ8s/0.jpg)](https://www.youtube.com/watch?v=Pn5Coq7QZ8s)
+
+### ◾ID Card Recognition SDK Main Functionalities
+
+  | Surpported ID Type      | Functionalities | Release Type |
+  |------------------|------------------|------------------|
+  | ID Card        | Extracting Information(OCR)    | Android(`Kotlin & Java`) |
+  | Passport        | Scanning Barcode    | iOS(`Swift & Objectiv-C`) |
+  | Driver License        | Parsing MRZ    | Flutter(`Dart`) |
+  |         | Auto Capturing    | Web Front-end(`Javascript`) |
+  |         | Scanning QR code        | Server-Windows(`Python`) |
+  |         | Supporting 200+ Countries' ID Documents        | Server-Linux(`Python`) |
+  |         | Supporting 130+ Languages        |  |
+  |         | ID Document Detection        |  |
+
+### ◾ID Card Recognition Product List
+  | No.      | Repository | Release Type |
+  |------------------|------------------|------------------|
+  | 1        | [ID Card Recognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)    | Android |
+  | 2        | [ID Card Recognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)    | iOS |
+  | 3        | [ID Card Recognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)    | Flutter |
+  | ➡️        | <b>[ID Auto Capture - React](https://github.com/kby-ai/ID-document-capture-React)</b>    | <b>Web Front-end</b> |
+  | 5        | [ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)        | Server-Windows |
+  | 6        | [ID Card Recognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)        | Server-Linux |
+
 > To request source code for this repo, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
