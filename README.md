@@ -17,7 +17,7 @@
 We have built ID document auto-capture web application via ReactJS in Javascript programming language.</br>
 This repo captures ID document automatically through web camera or mobile camera(front and back camera) and extracts information from the captured one.</br>
 Please check our demo [here](https://id-document-recognition-react-alpha.vercel.app/)</br>
-> In this repository, we don't share the source code because it doesn't have any limitation for time, device, etc.</br>
+
 > To request source code for this repo, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
