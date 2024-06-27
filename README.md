@@ -12,11 +12,17 @@
 #### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/u/kbyai)
 
 # ID Document Auto-Capture on Web Browser
+
+## Overview
 We have built ID document auto-capture web application via ReactJS in Javascript programming language.</br>
-Please check our demo [here](https://id-document-recognition-react-alpha.vercel.app/)
-- To request SDK, please contact us:</br>
+This repo captures ID document automatically through web camera or mobile camera(front and back camera) and extracts information from the captured one.</br>
+Please check our demo [here](https://id-document-recognition-react-alpha.vercel.app/)</br>
+> In this repository, we don't share the source code because it doesn't have any limitation for time, device, etc.</br>
+> To request source code for this repo, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
 🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
 🧙`Skype:` [live:.cid.66e2522354b1049b](https://join.skype.com/invite/OffY2r1NUFev)</br>
 🧙`Facebook:` https://www.facebook.com/KBYAI</br>
+
+
