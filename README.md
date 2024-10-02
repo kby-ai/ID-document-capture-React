@@ -57,3 +57,4 @@ Please review our YouTube video [here](https://www.youtube.com/watch?v=Pn5Coq7QZ
 🧙`Facebook:` https://www.facebook.com/KBYAI</br>
 
 
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FID-document-capture-React&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FID-document-capture-React)
