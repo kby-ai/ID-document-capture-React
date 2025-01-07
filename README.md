@@ -27,7 +27,8 @@ It's very useful and valuable to build KYC automation and digital customer onboa
 Please check our demo [here](https://id-document-recognition-react-alpha.vercel.app/)</br>
 
 ## Performance Video
-Please review our YouTube video [here](https://www.youtube.com/watch?v=Pn5Coq7QZ8s) to see how well our demo app works.</br></br>
+Please review our YouTube video [here](https://www.youtube.com/watch?v=ibvTpUas3Ns) to see how well our demo app works.</br></br>
+[![ID Document Auto Capture](https://img.youtube.com/vi/ibvTpUas3Ns/0.jpg)](https://www.youtube.com/watch?v=ibvTpUas3Ns)
 [![ID Document Auto Capture](https://img.youtube.com/vi/Pn5Coq7QZ8s/0.jpg)](https://www.youtube.com/watch?v=Pn5Coq7QZ8s)
 
 ### ◾ID Card Recognition SDK Main Functionalities
