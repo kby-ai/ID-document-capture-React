@@ -18,8 +18,8 @@
 # ID Document Auto-Capture on Web Browser
 
 ## Overview
-ID document auto capture technology enables web browser to automatically detect and capture high-quality images of a ID document without manual intervention. </br?
-This feature is particularly beneficial for applications such as remote identity verification, digital onboarding, and biometric authentication.</br?
+ID document auto capture technology enables web browser to automatically detect and capture high-quality images of a ID document without manual intervention. </br>
+This feature is particularly beneficial for applications such as remote identity verification, digital onboarding, and biometric authentication.</br>
 We have built ID document auto-capture web application via ReactJS in Javascript programming language.</br>
 This repo captures ID card, passport and driver licenses automatically through web camera and mobile camera.
 And it also extracts all information from the captured ID document by integrating our own ID card recognition SDK.
