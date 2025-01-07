@@ -42,7 +42,8 @@ Please review our YouTube video [here](https://www.youtube.com/watch?v=ibvTpUas3
   | Driver License        | Parsing MRZ    | Flutter(`Dart`) |
   |         | Auto Capturing    | Web Front-end(`Javascript`) |
   |         | Scanning QR code        | Server-Windows(`Python`) |
-  |         | Supporting 200+ Countries' ID Documents        | Server-Linux(`Python`) |
+  |         | PDF417 Recognition      | Server-Linux(`Python`) |
+  |         | Supporting 200+ Countries' ID Documents        |  |
   |         | Supporting 130+ Languages        |  |
   |         | ID Document Detection        |  |
 
