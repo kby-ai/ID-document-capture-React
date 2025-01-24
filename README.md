@@ -62,6 +62,6 @@ Please review our YouTube video [here](https://www.youtube.com/watch?v=ibvTpUas3
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
 🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
 🧙`Skype:` [live:.cid.66e2522354b1049b](https://join.skype.com/invite/OffY2r1NUFev)</br>
-🧙`KBY-AI:` [KBY-AI](https://discord.gg/CgHtWQ3k9T)</br>
+🧙`Discord:` [KBY-AI](https://discord.gg/CgHtWQ3k9T)</br>
 
 
