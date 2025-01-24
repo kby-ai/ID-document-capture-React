@@ -26,7 +26,7 @@ And it also extracts all information from the captured ID document by integratin
 It's very useful and valuable to build KYC automation and digital customer onboarding system.</br>
 
 ## Try By Yourself
-Please check our demo [here](https://id-document-recognition-react-alpha.vercel.app/)</br>
+Please check our demo [here](https://cap.kby-ai.com/)</br>
 
 ## Performance Video
 Please review our YouTube video [here](https://www.youtube.com/watch?v=ibvTpUas3Ns) to see how well our demo app works.</br></br>
